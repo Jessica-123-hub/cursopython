@@ -1,0 +1,9 @@
+receptor = proteinE_model1.pdbqt
+ligand = DB00915.pdbqt
+center_x = 12.0
+center_y = 6.5
+center_z = -3.0
+size_x = 21.75
+size_y = 20.25
+size_z = 18.75
+out = dock_out.pdbqt
